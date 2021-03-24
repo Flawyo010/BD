@@ -1,0 +1,26 @@
+{
+  "filmes" : [
+    {
+      "id": 1, 
+      "nome": "Legado Explosivo", 
+      "data_categoria": "7 de janeiro de 2021 / Ação, Suspense", 
+      "direcao": "Direção: Mark Williams (II)",
+      "elenco": "Elenco: Liam Neeson, Kate Walsh, Jai Courtney",
+      "nacionalidade": "Nacionalidade: EUA",
+      "sinopse": "Em Legado Explosivo, um ladrão de banco resolve mudar de vida e se tornar uma pessoa honesta quando se apaixona por uma mulher que trabalha em uma instalação de armazenamento, um lugar onde ele esconde todo o dinheiro que rouba. Mas fica cada vez mais difícil limpar seu nome quando ele passa a ser investigado por um agente corrupto do FBI.",
+      "img": "http://br.web.img3.acsta.net/c_310_420/pictures/20/11/23/17/17/0659074.jpg",
+      "trailer": "https://www.youtube.com/watch?v=dMi3oiQCsKQ"
+    },
+    {
+      "id": 2, 
+      "nome": "O Castelo dos Sonhos", 
+      "data_categoria": "7 de janeiro de 2021 / Drama", 
+      "direcao": "Direção: Lina Lužytė",
+      "elenco": "Elenco: Barbora Bareikyte, Gabija Jaraminaite, Jurate Onaityte",
+      "nacionalidade": "Nacionalidade: EUA",
+      "sinopse": "O Castelo dos Sonhos é a história de Monika (Barbora Bareikyte), uma jovem lituana de 13 anos, após sua chegada para morar em Dublin. Apaixonada por música, ela reside com sua mãe Jolanta (Gabija Jaraminaite), uma ex-pianista profissional, e sua avó (Jurate Onaityte), que requer cuidados 24 horas por dia. Convencida que um dia fará sucesso musicalmente, Monika pressiona sua mãe para que ambas invistam em sua dupla musical, sonhando em tocar no The Castle, um dos mais famosos locais de música da Irlanda.",
+      "img": "http://br.web.img3.acsta.net/c_310_420/pictures/21/01/25/14/18/5995599.jpg",
+      "trailer": "https://www.youtube.com/watch?v=Hmc_rIrDboY"
+    },
+  ]
+}
